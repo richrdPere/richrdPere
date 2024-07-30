@@ -11,9 +11,14 @@ Richard Pereira</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<p>Soy un Programador Fullstack orientado al diseño Front-end y con conocimientos en servidor y bases de datos orientados al diseño Back-end.
+<p>¡Hola a todos!. Soy Richard Mikhael Pereira Chinchero, soy un Programador Fullstack orientado al diseño Front-end y con conocimientos en servidor y bases de datos orientados al diseño Back-end. Poseo experiencia en multiples herramientas y tecnologias como Javascript, React, Redux, Node.js, SQL, CSS y python. Aunque mi enfoque esta orientado al desarrollo Front-End, con habilidades solidas en la parte de Back-End.
 
-Desde que tengo 17 años me ha interesado el mundo de la programación. Mi primer Lenguaje fue Python, luego le siguio C++, C# y java. Me encanta hacer cosas útiles y divertidas con la programación, escuchar distintos tipos de música, compartir con amigos y mucho más.</p>
+Desde que tengo 17 años me ha interesado el mundo de la programación. Mi primer Lenguaje fue Python, luego le siguio C++, C# y java. Me encanta hacer cosas útiles y divertidas con la programación, escuchar distintos tipos de música, compartir con amigos y mucho más.
+
+Me descaco por ser una persona tranquila, proactica y responsable con una gran capacidad para trabajar en equipo, compartir mis conocimientos y aprender nuevas cosas. Mi tiempo como practicante profesional en algunas empresas me ha permitido desarrollar habilidades para informar, comunicar, obtener enfoque centralizado al momento de resolver problemas y cumplir con las tareas.
+
+Deseo seguir creciendo profesionalmente, conocer nuevas cosas, enfrentar nuevos desafios y contribuir al exito de los proyectos en los que participe. Estoy siempre explorando mejores alternativas y practicando mis habilidades de Desarrollo Web.
+</p>
 
 - 🔭 Actualmente trabajo en la <a href="https://web.egemsa.com.pe/" target="blank">Empresa Generadora de Electricidad S.A. (EGEMSA)</a>
 
@@ -24,6 +29,8 @@ Desde que tengo 17 años me ha interesado el mundo de la programación. Mi prime
 - 🤝 Estoy disponible para trabajar como desarrollador Full Stack.
 
 - 💬 Preguntame sobre **Javascript, CSS, Reactjs, Python y Express**
+
+- 📫 Contactame **www.linkedin.com/in/richard-pereira-17b78b299**
 
 - 📫 Contactame **richrdpere321@gmail.com**
 
@@ -107,7 +114,7 @@ Desde que tengo 17 años me ha interesado el mundo de la programación. Mi prime
 <br>
 
 
-## <b> ¡Contactame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> ¡Contactame en varios lados..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 <p>Si puedes imaginarlo, podemos programarlo. No dudes en contactarme para poder desarrollar un gran proyecto que cambie la vida de muchas personas.</p>
