@@ -107,7 +107,7 @@ Desde que tengo 17 años me ha interesado el mundo de la programación. Mi prime
 <br>
 
 
-## <b> ¡Conectémonos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> ¡Contactame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 <p>Si puedes imaginarlo, podemos programarlo. No dudes en contactarme para poder desarrollar un gran proyecto que cambie la vida de muchas personas.</p>
