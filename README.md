@@ -36,6 +36,8 @@ Desde que tengo 17 años me ha interesado el mundo de la programación. Mi prime
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> ¿Que tecnologias uso?</b>
 <br>
+<p>El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 . Asi como contar con aprendizaje en otras tecnologias. Por lo que las principales tecnologías que manejo son:</p>
+
 <p align="center">
 
 - **Languages**:
