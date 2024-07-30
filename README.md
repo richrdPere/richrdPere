@@ -18,7 +18,7 @@ Richard Pereira</a></h1>
 
 - 📫 Contactame **richrdpere321@gmail.com**
 
-- 📄 Conoce mis <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Experiencias</a>
+- 📄 Conoce mis <a href="https://github.com/richrdPere/Informacion/blob/main/CV%20-%20HENRY%20-%20RMPCH.pdf" target="blank">**Experiencias**</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
