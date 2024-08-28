@@ -11,13 +11,13 @@ Richard Pereira</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<p>¡Hola a todos!. Soy Richard Mikhael Pereira Chinchero, soy un Programador Fullstack orientado al diseño Front-end y con conocimientos en servidor y bases de datos orientados al diseño Back-end. Poseo experiencia en multiples herramientas y tecnologias como Javascript, React, Redux, Node.js, SQL, CSS y python. Aunque mi enfoque esta orientado al desarrollo Front-End, con habilidades solidas en la parte de Back-End.
+<p>¡Hola a todos! Soy Richard Mikhael Pereira Chinchero, un Programador Fullstack con un enfoque especial en el desarrollo Front-End, aunque también poseo sólidas habilidades en Back-End, abarcando tanto el diseño como la implementación de servidores y bases de datos. Mi experiencia incluye el uso de tecnologías y herramientas como JavaScript, React, Redux, Node.js, SQL, CSS y Python.
 
-Desde que tengo 17 años me ha interesado el mundo de la programación. Mi primer Lenguaje fue Python, luego le siguio C++, C# y java. Me encanta hacer cosas útiles y divertidas con la programación, escuchar distintos tipos de música, compartir con amigos y mucho más.
+Desde los 17 años, me ha fascinado el mundo de la programación. Comencé con Python, y más tarde aprendí C++, C# y Java. Disfruto creando soluciones útiles y divertidas a través de la programación, además de escuchar música, pasar tiempo con amigos y explorar diversas áreas de interés.
 
-Me descaco por ser una persona tranquila, proactica y responsable con una gran capacidad para trabajar en equipo, compartir mis conocimientos y aprender nuevas cosas. Mi tiempo como practicante profesional en oficinas de Tecnologias de la Información en algunas empresas me ha permitido desarrollar habilidades para informar, comunicar, obtener enfoque centralizado al momento de resolver problemas y cumplir con las tareas.
+Me destaco por ser una persona tranquila, proactiva y responsable, con una gran capacidad para trabajar en equipo, compartir conocimientos y aprender constantemente. Durante mi tiempo como practicante profesional en oficinas de Tecnologías de la Información, he desarrollado habilidades clave en la comunicación efectiva, el enfoque en la resolución de problemas y el cumplimiento de tareas en entornos colaborativos.
 
-Deseo seguir creciendo profesionalmente, conocer nuevas cosas, enfrentar nuevos desafios y contribuir al exito de los proyectos en los que participe. Estoy siempre explorando mejores alternativas y practicando mis habilidades de Desarrollo Web.
+Aspiro a seguir creciendo profesionalmente, enfrentando nuevos desafíos y contribuyendo al éxito de los proyectos en los que participe. Estoy siempre en la búsqueda de alternativas innovadoras y perfeccionando mis habilidades en Desarrollo Web.
 </p>
 
 - 🔭 Actualmente trabajo en la <a href="https://web.egemsa.com.pe/" target="blank">Empresa Generadora de Electricidad S.A. (EGEMSA)</a>
