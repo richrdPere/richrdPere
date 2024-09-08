@@ -11,7 +11,7 @@ Richard Pereira</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<p>¡Hola a todos! Soy Richard Mikhael Pereira Chinchero, un Programador Fullstack con un enfoque especial en el desarrollo Front-End, aunque también poseo sólidas habilidades en Back-End, abarcando tanto el diseño como la implementación de servidores y bases de datos. Mi experiencia incluye el uso de tecnologías y herramientas como JavaScript, React, Redux, Node.js, SQL, CSS y Python.
+<p>¡Hola a todos! Soy Richard Mikhael Pereira Chinchero, un Programador Freelancer con un enfoque especial en el desarrollo Front-End, aunque también poseo sólidas habilidades en Back-End, abarcando tanto el diseño como la implementación de servidores y bases de datos. Mi experiencia incluye el uso de tecnologías y herramientas como JavaScript, React, Redux, Node.js, SQL, CSS y Python.
 
 Desde los 17 años, me ha fascinado el mundo de la programación. Comencé con Python, y más tarde aprendí C++, C# y Java. Disfruto creando soluciones útiles y divertidas a través de la programación, además de escuchar música, pasar tiempo con amigos y explorar diversas áreas de interés.
 
